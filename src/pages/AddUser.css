@@ -1,0 +1,27 @@
+.formClassAdd {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+}
+
+.formClassAdd input {
+  width: 25rem;
+  margin: 0.3rem;
+}
+
+.formClassAdd button {
+  width: 27rem;
+  margin: 1rem;
+}
+
+.parentAddUser {
+  position: absolute;
+  top: 4rem;
+  left: 50rem;
+}
+
+.inputMarginUsers {
+  margin: 1rem;
+}

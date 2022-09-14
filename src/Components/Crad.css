@@ -1,0 +1,12 @@
+.Img-conatiner-card img {
+  width: 300px;
+}
+
+.card-container {
+  background-color: #eeeeee;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 30rem;
+  padding: 0.5rem;
+}

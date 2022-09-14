@@ -1,0 +1,9 @@
+.imageInNav img {
+  height: 40px;
+  position: relative;
+}
+
+.absoluteToTheRight {
+  position: absolute;
+  right: 0;
+}

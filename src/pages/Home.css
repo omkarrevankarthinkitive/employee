@@ -1,0 +1,26 @@
+.homeImgDiv img {
+  height: 400px;
+  width: 600px;
+  border-radius: 1.2rem;
+}
+
+.mainContainerHome {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  position: absolute;
+  top: 1rem;
+  left: 35rem;
+}
+
+.headingOne {
+  font-size: 5rem;
+  color: #407088;
+  margin-left: 0.7rem;
+}
+.headingTwo {
+  color: #8f384d;
+  font-size: 5rem;
+  margin-left: 0.7rem;
+}
